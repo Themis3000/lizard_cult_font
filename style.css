@@ -1,0 +1,21 @@
+canvas{
+    border: 1px black solid;
+}
+#textCanvas{
+    display: none;
+}
+
+#text {
+    width: 50%;
+}
+
+#convert {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+@font-face {
+    font-family: Lizard_cult;
+    src: url("Lizard_cult_og.otf");
+}
