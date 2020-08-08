@@ -5,7 +5,7 @@ FamilyName: Lizard_cult
 Weight: Regular
 Copyright: Copyright (c) 2020, tcm47
 UComments: "2020-8-8: Created with FontForge (http://fontforge.org)"
-FontLog: "A font for the lizard cult+AAoACgAA-extended space"
+FontLog: "A font for the lizard cult+AAoACgAA-extended space+AAoACgAA-Copied upper case characters to match lower case characters"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596865995
-ModificationTime: 1596871551
+ModificationTime: 1596912943
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 7
+WinInfo: 0 39 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1537,621 +1537,660 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 60
-Width: 694
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-647 4 m 1
- 599 -7 l 1
- 504 236 l 1
- 188 236 l 1
- 97 0 l 1
- 47 0 l 1
- 321 694 l 1
- 373 694 l 1
- 647 4 l 1
-488 279 m 1
- 346 640 l 1
- 206 279 l 1
- 488 279 l 1
+177.975585938 -182.049804688 m 6
+ 177.975585938 -182.049804688 177.962890625 -182.061523438 177.962890625 -182.061523438 c 6
+ 139.765625 -195.69140625 97.1357421875 -183.098632812 72.4814453125 -150.901367188 c 4
+ 47.8271484375 -118.704101562 46.7900390625 -74.2587890625 69.9140625 -40.9501953125 c 4
+ 73.7529296875 -35.4072265625 75.9140625 -32.2958984375 75.9140625 -32.2958984375 c 5
+ 75.9140625 -32.2958984375 582.209960938 701.641601562 626.580078125 765.975585938 c 4
+ 628.641601562 768.962890625 630.950195312 771.765625 633.494140625 774.370117188 c 4
+ 634.629882812 775.54296875 636 776.950195312 637.568359375 778.555664062 c 4
+ 653.53125 794.950195312 676.431640625 802.604492188 699.049804688 799.111328125 c 4
+ 721.666992188 795.6171875 741.197265625 781.407226562 751.46875 760.975585938 c 4
+ 751.46875 760.962890625 751.46875 760.962890625 751.481445312 760.962890625 c 4
+ 752 759.92578125 752.395507812 758.827148438 752.641601562 757.69140625 c 4
+ 761.752929688 717.012695312 930.629882812 -37.2958984375 947.518554688 -112.741210938 c 4
+ 948.407226562 -116.741210938 948.45703125 -120.876953125 947.654296875 -124.901367188 c 4
+ 947.654296875 -124.9140625 947.654296875 -124.92578125 947.641601562 -124.938476562 c 4
+ 941.30859375 -156.629882812 916.728515625 -181.53125 885.123046875 -188.271484375 c 4
+ 853.505859375 -195.024414062 820.9140625 -182.333007812 802.185546875 -155.987304688 c 4
+ 801.568359375 -155.123046875 800.962890625 -154.284179688 800.395507812 -153.46875 c 4
+ 794.592773438 -145.30859375 790.592773438 -136 788.678710938 -126.16015625 c 4
+ 771.45703125 -37.53125 682.83984375 418.494140625 667.888671875 495.407226562 c 4
+ 667.53125 497.247070312 666.098632812 498.704101562 664.258789062 499.07421875 c 4
+ 662.407226562 499.45703125 660.518554688 498.678710938 659.46875 497.123046875 c 4
+ 611.6171875 426.22265625 304.370117188 -28.9140625 226.30859375 -144.54296875 c 4
+ 214.6171875 -161.876953125 197.678710938 -175.024414062 177.975585938 -182.049804688 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 205 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 203 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 148 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 119 -95 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -96 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -95 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: B
 Encoding: 66 66 61
-Width: 549
+Width: 1000
 Flags: W
+HStem: -192.366 157.406<397.253 557.295>
 LayerCount: 3
 Fore
 SplineSet
-490 196 m 0
- 490 70 392 0 254 0 c 2
- 100 0 l 1
- 100 690 l 1
- 254 690 l 2
- 388 690 459 624 459 523 c 0
- 459 447 413 392 349 366 c 1
- 435 343 490 290 490 196 c 0
-410 521 m 0
- 410 600 355 647 252 647 c 2
- 148 647 l 1
- 148 382 l 1
- 253 382 l 2
- 357 382 410 446 410 521 c 0
-441 191 m 0
- 441 296 365 341 254 341 c 2
- 148 341 l 1
- 148 43 l 1
- 258 43 l 2
- 369 43 441 100 441 191 c 0
+387.822265625 472.614257812 m 4
+ 357.306640625 367.940429688 349.911132812 321.504882812 340.336914062 210.68359375 c 4
+ 333.079101562 126.643554688 327.088867188 93.822265625 361.752929688 23.8115234375 c 4
+ 388.534179688 -30.287109375 454.4453125 -35.3759765625 483.911132812 -34.9599609375 c 4
+ 630.049804688 -32.9111328125 686.624023438 158.59375 748.83203125 247.416015625 c 4
+ 771.396484375 279.633789062 805.12890625 281.959960938 828.42578125 253.375976562 c 4
+ 865.970703125 207.327148438 825.772460938 113.040039062 807.385742188 68.1884765625 c 4
+ 754.87109375 -59.9111328125 624.959960938 -190.217773438 477.009765625 -192.366210938 c 4
+ 209.217773438 -196.237304688 174.237304688 99.861328125 186.504882812 308.475585938 c 4
+ 190.31640625 373.237304688 187.009765625 437.514648438 238.643554688 628.356445312 c 4
+ 251.455078125 675.693359375 310.40625 833.514648438 395.385742188 790.40625 c 4
+ 435.98046875 769.811523438 464.614257812 762.890625 457.791992188 711.356445312 c 4
+ 454.495117188 686.544921875 403.237304688 525.475585938 387.822265625 472.614257812 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 24 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: C
 Encoding: 67 67 62
-Width: 650
+Width: 1000
 Flags: W
+VStem: 88.1133 157.978<23.7876 190.503>
 LayerCount: 3
 Fore
 SplineSet
-585 58 m 1
- 533 18 459 -13 374 -13 c 0
- 193 -13 65 131 65 344 c 0
- 65 554 195 703 382 703 c 0
- 456 703 522 679 574 643 c 1
- 565 593 l 1
- 508 634 448 660 381 660 c 0
- 218 660 115 530 115 346 c 0
- 115 161 219 30 378 30 c 0
- 453 30 522 60 578 104 c 1
- 585 58 l 1
+783.26171875 752.840820312 m 4
+ 805.772460938 706.295898438 772.36328125 651.454101562 733.75 631.318359375 c 4
+ 510.75 515.056640625 237.5 298.01171875 246.090820312 77.681640625 c 4
+ 253.318359375 -107.715820312 518.193359375 -108.022460938 799.75 64.76171875 c 4
+ 843.306640625 91.48828125 897.23828125 70.8974609375 912.86328125 36.48828125 c 4
+ 941.272460938 -26.0791015625 892.943359375 -73.193359375 849.23828125 -90.76171875 c 4
+ 757.51171875 -140.25 658.306640625 -169.13671875 557.227539062 -188.23828125 c 4
+ 484.227539062 -202.227539062 409 -199.329101562 337.284179688 -179.772460938 c 4
+ 330.23828125 -177.897460938 323.397460938 -175.852539062 316.73828125 -173.681640625 c 4
+ 195.306640625 -134.409179688 107.431640625 -28.61328125 91.0908203125 97.9658203125 c 4
+ 88.4775390625 116.534179688 89.0908203125 133.795898438 88.11328125 151.954101562 c 4
+ 81.056640625 284.340820312 164.147460938 431.13671875 319.045898438 569.034179688 c 4
+ 410.954101562 650.86328125 486.579101562 706.76171875 679.579101562 790.545898438 c 4
+ 732.454101562 806.056640625 763.454101562 793.772460938 783.26171875 752.840820312 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: D
 Encoding: 68 68 63
-Width: 699
+Width: 1000
 Flags: W
+HStem: -197.078 169.18<112.526 205.711> 616.003 164.545<198.07 469.673>
 LayerCount: 3
 Fore
 SplineSet
-634 346 m 0
- 634 129 486 0 275 0 c 2
- 100 0 l 1
- 100 690 l 1
- 278 690 l 2
- 499 690 634 553 634 346 c 0
-584 345 m 0
- 584 541 460 647 277 647 c 2
- 148 647 l 1
- 148 43 l 1
- 280 43 l 2
- 462 43 584 146 584 345 c 0
+74.642578125 -138.45703125 m 4
+ 58.4169921875 -87.6376953125 106.805664062 -43.642578125 151.560546875 -27.8984375 c 4
+ 380.137695312 52.4921875 647.1484375 189.80078125 689.0859375 382.495117188 c 4
+ 714.70703125 500.255859375 502.293945312 633.541992188 280.790039062 616.002929688 c 4
+ 224.166015625 611.516601562 172.272460938 629.825195312 161.396484375 667.185546875 c 4
+ 141.641601562 735.129882812 197.805664062 769.5234375 254.918945312 780.547851562 c 4
+ 378.166992188 804.344726562 470.518554688 807.375976562 575.234375 782.061523438 c 4
+ 691.864257812 753.883789062 883.807617188 598.901367188 915.498046875 463.56640625 c 4
+ 939.428710938 361.374023438 919.458007812 255.916015625 903.032226562 221.390625 c 4
+ 889.970703125 193.965820312 886.326171875 115.31640625 640.247070312 -50.78125 c 4
+ 462.315429688 -170.865234375 205.282226562 -195.3203125 181.908203125 -197.078125 c 4
+ 120.821289062 -201.680664062 88.923828125 -183.1484375 74.642578125 -138.45703125 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 144 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 94 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: E
 Encoding: 69 69 64
-Width: 505
+Width: 1001
 Flags: W
+HStem: 364.048 107.945<834.952 881.436>
+VStem: 102.171 126.083<115.654 215.54>
 LayerCount: 3
 Fore
 SplineSet
-459 0 m 1
- 100 0 l 1
- 100 690 l 1
- 449 690 l 1
- 449 647 l 1
- 148 647 l 1
- 148 383 l 1
- 390 383 l 1
- 396 340 l 1
- 148 340 l 1
- 148 43 l 1
- 459 43 l 1
- 459 0 l 1
+164.71875 475.889648438 m 2
+ 164.71875 475.889648438 722.331054688 472.569335938 818.97265625 471.993164062 c 0
+ 836.465820312 471.887695312 853.825195312 468.814453125 870.291992188 462.893554688 c 0
+ 889.344726562 456.04296875 897.604492188 446.1640625 899.560546875 424.885742188 c 0
+ 901.7109375 401.598632812 873.552734375 365.434570312 834.952148438 364.047851562 c 2
+ 834.952148438 364.047851562 345.102539062 357.333984375 290.920898438 356.590820312 c 0
+ 288.057617188 356.552734375 285.569335938 354.604492188 284.849609375 351.831054688 c 0
+ 277.32421875 322.998046875 237.390625 169.924804688 228.25390625 134.893554688 c 0
+ 226.799804688 129.317382812 223.680664062 124.325195312 219.311523438 120.584960938 c 0
+ 204.344726562 108.038085938 184.467773438 101.508789062 163.721679688 102.874023438 c 0
+ 127.790039062 105.243164062 115.0625 120.64453125 105.6328125 139.09765625 c 0
+ 102.635742188 144.83203125 101.4296875 151.338867188 102.170898438 157.767578125 c 0
+ 107.739257812 206.366210938 133.8828125 432.125976562 133.8828125 432.125976562 c 2
+ 136.056640625 449.986328125 134.53515625 458.366210938 141.220703125 466.041992188 c 0
+ 148.74609375 474.668945312 155.3203125 475.913085938 164.71875 475.889648438 c 2
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: F
 Encoding: 70 70 65
-Width: 477
+Width: 1000
 Flags: W
+VStem: 199.018 134.289<-135.324 185.276>
 LayerCount: 3
 Fore
 SplineSet
-435 647 m 1
- 148 647 l 1
- 148 372 l 1
- 381 372 l 1
- 388 329 l 1
- 148 329 l 1
- 148 0 l 1
- 100 0 l 1
- 100 690 l 1
- 435 690 l 1
- 435 647 l 1
+343.982421875 115.935546875 m 4
+ 341.71875 57.595703125 335.4765625 -96.3935546875 333.306640625 -114.307617188 c 4
+ 327.20703125 -164.815429688 313.4375 -181.427734375 283.576171875 -192.978515625 c 4
+ 215.565429688 -219.293945312 201.659179688 -42.6142578125 199.017578125 -2.708984375 c 4
+ 186.01953125 193.357421875 205.869140625 302.897460938 214.772460938 364.311523438 c 4
+ 246.349609375 581.888671875 410.3984375 835.490234375 596.3125 784.688476562 c 4
+ 738.83984375 745.744140625 798.751953125 618.118164062 819.608398438 476.579101562 c 4
+ 826.602539062 429.08984375 846.603515625 329.551757812 800.49609375 293.01953125 c 4
+ 771.876953125 270.342773438 739.75390625 279.779296875 724.798828125 315.7421875 c 4
+ 683.56640625 414.877929688 695.73828125 631.228515625 551.147460938 637.116210938 c 4
+ 520.034179688 638.379882812 480.780273438 638.194335938 453.319335938 595.576171875 c 4
+ 414.51171875 535.359375 406.426757812 505.728515625 384.364257812 426.100585938 c 4
+ 354.955078125 319.961914062 348.166015625 223.817382812 343.982421875 115.935546875 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -41 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -60 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: G
 Encoding: 71 71 66
-Width: 691
+Width: 1000
 Flags: W
+VStem: 593.641 146.79<-93.2414 49.8165>
 LayerCount: 3
 Fore
 SplineSet
-602 59 m 1
- 535 14 467 -13 380 -13 c 0
- 189 -13 65 134 65 344 c 0
- 65 554 194 703 375 703 c 0
- 455 703 522 681 575 643 c 1
- 566 591 l 1
- 514 633 452 660 374 660 c 0
- 218 660 115 533 115 345 c 0
- 115 158 217 30 382 30 c 0
- 451 30 504 48 554 81 c 1
- 554 307 l 1
- 382 307 l 1
- 375 350 l 1
- 602 350 l 1
- 602 59 l 1
+624.350585938 114.893554688 m 4
+ 639.513671875 217.669921875 650.133789062 309.806640625 641.12890625 415.404296875 c 4
+ 634.375 494.626953125 631.979492188 524.084960938 605.947265625 587.916015625 c 4
+ 587.528320312 633.091796875 550.435546875 640.224609375 520.784179688 644.54296875 c 4
+ 382.986328125 664.600585938 356.154296875 457.818359375 299.586914062 371.36328125 c 4
+ 279.068359375 340.000976562 247.012695312 336.768554688 223.96484375 363.2890625 c 4
+ 186.830078125 406.012695312 223.389648438 496.611328125 238.420898438 540.287109375 c 4
+ 283.232421875 670.458007812 362.516601562 780.549804688 504.221679688 792.122070312 c 4
+ 689.0625 807.220703125 799.274414062 538.288085938 790.578125 326.907226562 c 4
+ 788.114257812 267.243164062 787.473632812 160.122070312 740.430664062 -23.013671875 c 4
+ 730.859375 -60.2880859375 686.393554688 -224.927734375 626.733398438 -187.985351562 c 4
+ 600.537109375 -171.767578125 590.458007812 -153.615234375 593.640625 -104.763671875 c 4
+ 594.763671875 -87.4365234375 616.151367188 59.3134765625 624.350585938 114.893554688 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 24 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: H
 Encoding: 72 72 67
-Width: 707
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-607 0 m 1
- 559 0 l 1
- 559 340 l 1
- 148 340 l 1
- 148 0 l 1
- 100 0 l 1
- 100 690 l 1
- 148 690 l 1
- 148 383 l 1
- 559 383 l 1
- 559 690 l 1
- 607 690 l 1
- 607 0 l 1
+477.951171875 101.013671875 m 4
+ 282.068359375 114.671875 264.421875 215.155273438 265.833984375 297.858398438 c 4
+ 267.333984375 387.4609375 349.303710938 532.767578125 492.775390625 539.966796875 c 4
+ 587.627929688 544.721679688 688.215820312 417.319335938 686.715820312 292.79296875 c 4
+ 685.568359375 202.263671875 590.98046875 93.1259765625 477.951171875 101.013671875 c 4
+480.951171875 383.092773438 m 4
+ 440.8046875 377.049804688 391.569335938 328.413085938 388.48046875 300.504882812 c 4
+ 385.391601562 272.693359375 414.862304688 244.291015625 457.48046875 239.260742188 c 4
+ 503.36328125 233.833984375 535.74609375 278.40234375 540.069335938 308.658203125 c 4
+ 545.715820312 348.381835938 527.892578125 390.161132812 480.951171875 383.092773438 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 EndChar
 
 StartChar: I
 Encoding: 73 73 68
-Width: 264
+Width: 238
 Flags: W
+VStem: 97.752 107.383<646.567 759.387>
 LayerCount: 3
 Fore
 SplineSet
-156 0 m 1
- 108 0 l 1
- 108 690 l 1
- 156 690 l 1
- 156 0 l 1
+205.134765625 746.107421875 m 0
+ 217.845703125 701.650390625 187.377929688 293.454101562 180.181640625 208.6875 c 0
+ 172.518554688 119.014648438 158.686523438 -92.3408203125 138.5 -134.901367188 c 0
+ 97.00390625 -222.3125 25.8828125 -196.995117188 18.6865234375 -128.696289062 c 0
+ 1.8642578125 30.734375 1.6767578125 197.014648438 35.322265625 389.509765625 c 0
+ 55.0419921875 502.5 69.8076171875 630.041992188 97.751953125 747.126953125 c 0
+ 111.303710938 834.37890625 193.639648438 786.28515625 205.134765625 746.107421875 c 0
 EndSplineSet
-Validated: 1
+Validated: 524321
 EndChar
 
 StartChar: J
 Encoding: 74 74 69
-Width: 359
+Width: 1000
 Flags: W
+VStem: 213.513 128.606<39.1557 210.135> 588.259 175.457<378.133 732.545> 603.199 183.189<180.785 593.605>
 LayerCount: 3
 Fore
 SplineSet
-262 166 m 2
- 262 50 194 -6 98 -6 c 0
- 76 -6 54 -3 38 1 c 1
- 31 47 l 1
- 51 41 76 37 99 37 c 0
- 171 37 214 79 214 161 c 2
- 214 690 l 1
- 262 690 l 1
- 262 166 l 2
+603.19921875 455.326171875 m 4xa0
+ 602.395507812 509.84765625 587.50390625 695.374023438 588.258789062 720.145507812 c 4
+ 589.822265625 771.587890625 618.911132812 773.782226562 661.873046875 787.415039062 c 4
+ 751.818359375 815.951171875 759.149414062 652.334960938 763.715820312 603.9921875 c 4xc0
+ 782.125976562 409.248046875 790.965820312 320.90625 786.388671875 257.658203125 c 4
+ 771.990234375 58.814453125 709.423828125 -203.087890625 467.955078125 -195.711914062 c 4
+ 320.846679688 -191.23046875 243.338867188 -65.6240234375 213.512695312 42.1171875 c 4
+ 200.880859375 87.736328125 203.205078125 170.84375 244.678710938 226.444335938 c 4
+ 285.767578125 281.51171875 353.374023438 263.078125 342.119140625 176.872070312 c 4
+ 334.135742188 115.760742188 342.733398438 1.5302734375 440.323242188 -19.197265625 c 4
+ 497.686523438 -31.3857421875 517.908203125 2.7080078125 530.1171875 20.4892578125 c 4
+ 553.243164062 54.1767578125 574.24609375 126.072265625 584.848632812 194.32421875 c 4
+ 587.224609375 209.631835938 605.366210938 308.778320312 603.19921875 455.326171875 c 4xa0
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 138 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: K
 Encoding: 75 75 70
-Width: 603
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-580 5 m 1
- 526 -7 l 1
- 148 361 l 1
- 148 0 l 1
- 100 0 l 1
- 100 690 l 1
- 148 690 l 1
- 148 372 l 1
- 496 690 l 1
- 560 690 l 1
- 204 369 l 1
- 580 5 l 1
+807.349609375 631.228515625 m 4
+ 563.85546875 523.241210938 391.807617188 458.72265625 253.373046875 366.373046875 c 4
+ 246.505859375 361.686523438 241.927734375 354.216796875 241.083984375 345.927734375 c 4
+ 240.120117188 337.650390625 242.891601562 329.373046875 248.5546875 323.2890625 c 4
+ 387.469726562 202.541992188 864.096679688 -45.083984375 935.541992188 -82.1689453125 c 4
+ 997.590820312 -114.325195312 889.518554688 -210.180664062 838.072265625 -194.590820312 c 4
+ 653.373046875 -138.614257812 246.385742188 108.69921875 107.7109375 245.794921875 c 4
+ 55.1806640625 297.686523438 37.228515625 310.481445312 41.6865234375 360.30078125 c 4
+ 47.8310546875 430.241210938 449.27734375 676.072265625 828.5546875 793.264648438 c 4
+ 868.794921875 805.674804688 921.686523438 771.614257812 904.096679688 717.252929688 c 4
+ 894.336914062 686.903320312 864.819335938 656.69921875 807.349609375 631.228515625 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -10 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: L
 Encoding: 76 76 71
-Width: 465
+Width: 1000
 Flags: W
+HStem: 101.025 114.401<828.403 876.711>
 LayerCount: 3
 Fore
 SplineSet
-435 0 m 1
- 100 0 l 1
- 100 690 l 1
- 148 690 l 1
- 148 43 l 1
- 428 43 l 1
- 435 0 l 1
+180.6796875 119.053710938 m 6
+ 170.66796875 119.029296875 163.666992188 120.354492188 155.651367188 129.543945312 c 4
+ 148.529296875 137.71875 150.149414062 146.645507812 147.833984375 165.670898438 c 6
+ 147.833984375 165.670898438 109.249023438 468.8984375 101.775390625 528.075195312 c 4
+ 100.889648438 535.069335938 102.174804688 542.166015625 105.448242188 548.41015625 c 4
+ 115.484375 567.954101562 129.080078125 584.241210938 167.203125 586.749023438 c 4
+ 187.754882812 588.10546875 207.505859375 582.189453125 222.994140625 570.62890625 c 4
+ 229.852539062 565.471679688 234.1796875 557.630859375 234.881835938 549.081054688 c 4
+ 239.122070312 497.83203125 256.623046875 286.235351562 259.791992188 248.000976562 c 4
+ 260.072265625 244.599609375 262.826171875 241.940429688 266.235351562 241.78125 c 4
+ 326.745117188 238.946289062 828.403320312 215.426757812 828.403320312 215.426757812 c 6
+ 869.520507812 213.94140625 899.508789062 175.419921875 897.224609375 150.61328125 c 4
+ 895.140625 127.962890625 886.350585938 117.440429688 866.079101562 110.143554688 c 4
+ 847.7890625 103.564453125 828.419921875 100.466796875 808.979492188 101.025390625 c 4
+ 705.723632812 103.987304688 180.6796875 119.053710938 180.6796875 119.053710938 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 205 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 203 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 148 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 119 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -25 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: M
 Encoding: 77 77 72
-Width: 913
+Width: 1000
 Flags: W
+HStem: 377.802 113.631<114.938 169.356 169.737 766.906>
+VStem: 768.158 126.125<116.004 377.75>
 LayerCount: 3
 Fore
 SplineSet
-828 0 m 1
- 780 0 l 1
- 733 621 l 1
- 476 -4 l 1
- 436 -4 l 1
- 179 621 l 1
- 132 0 l 1
- 86 0 l 1
- 142 690 l 1
- 201 690 l 1
- 457 59 l 1
- 714 690 l 1
- 772 690 l 1
- 828 0 l 1
+863.76953125 491.432617188 m 6
+ 873.649414062 491.45703125 880.56640625 490.157226562 888.46875 481.080078125 c 4
+ 895.49609375 473.013671875 893.897460938 464.212890625 896.181640625 445.430664062 c 6
+ 896.181640625 445.430664062 894.283203125 149.256835938 894.283203125 149.107421875 c 6
+ 894.283203125 149.107421875 894.283203125 149.098632812 894.283203125 149.091796875 c 4
+ 893.787109375 115.931640625 878.2265625 103.900390625 834.107421875 100.994140625 c 4
+ 814.529296875 99.7021484375 795.692382812 105.098632812 780.66015625 115.7421875 c 4
+ 772.869140625 121.264648438 768.211914062 130.21484375 768.158203125 139.771484375 c 4
+ 767.897460938 184.915039062 767.014648438 337.331054688 766.818359375 371.153320312 c 4
+ 766.801757812 374.83984375 763.79296875 377.818359375 760.09765625 377.801757812 c 4
+ 694.573242188 377.526367188 169.356445312 375.2734375 169.356445312 375.2734375 c 6
+ 109.181640625 376.73046875 99.19140625 414.744140625 101.4453125 439.22265625 c 4
+ 103.517578125 461.65234375 112.247070312 472.036132812 132.391601562 479.245117188 c 4
+ 149.684570312 485.4375 167.907226562 488.635742188 186.272460938 488.71484375 c 4
+ 287.297851562 489.1171875 863.76953125 491.432617188 863.76953125 491.432617188 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 119 -12 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -5 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -12 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: N
 Encoding: 78 78 73
-Width: 707
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-607 0 m 1
- 569 0 l 1
- 146 617 l 1
- 146 0 l 1
- 100 0 l 1
- 100 690 l 1
- 149 690 l 1
- 561 90 l 1
- 561 690 l 1
- 607 690 l 1
- 607 0 l 1
+169.024414062 -166.336914062 m 4
+ 132.638671875 -199.927734375 -46.5185546875 -213 12.638671875 -50.638671875 c 4
+ 14.083984375 -46.9638671875 15.650390625 -43.3974609375 17.69921875 -40 c 4
+ 51.794921875 19.578125 420.228515625 663.1328125 480.469726562 768.494140625 c 4
+ 490.590820312 786.024414062 509.626953125 796.30078125 529.8671875 794.975585938 c 4
+ 542.758789062 794.120117188 554.4453125 788.096679688 564.927734375 776.626953125 c 4
+ 579.264648438 760.84375 588.783203125 741.192382812 592.15625 720.096679688 c 4
+ 599.626953125 674.047851562 633.481445312 463.819335938 644.927734375 392.819335938 c 4
+ 645.530273438 389.036132812 648.421875 386.024414062 652.15625 385.216796875 c 4
+ 655.891601562 384.421875 659.747070312 385.98828125 661.794921875 389.180664062 c 4
+ 710.7109375 463.205078125 881.072265625 721.349609375 914.807617188 772.252929688 c 4
+ 921.192382812 781.903320312 932.27734375 787.30078125 943.84375 786.30078125 c 4
+ 966.735351562 784.458007812 982.879882812 758.590820312 994.325195312 711.56640625 c 4
+ 997.336914062 699.14453125 996.85546875 686.120117188 992.879882812 673.975585938 c 4
+ 956.1328125 561.505859375 750.228515625 -68.6025390625 731.794921875 -124.373046875 c 4
+ 730.7109375 -127.69921875 729.385742188 -130.916015625 727.69921875 -133.98828125 c 4
+ 685.047851562 -213.530273438 628.783203125 -214.1328125 544.807617188 -156.349609375 c 4
+ 504.325195312 -128.481445312 440.7109375 -22.4091796875 406.494140625 195.421875 c 4
+ 406.01171875 198.421875 403.602539062 200.747070312 400.590820312 201.108398438 c 4
+ 397.578125 201.469726562 394.56640625 199.794921875 393.481445312 196.98828125 c 4
+ 329.264648438 46.2412109375 263.84375 -78.794921875 169.024414062 -166.336914062 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 EndChar
 
 StartChar: O
 Encoding: 79 79 74
-Width: 744
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-679 346 m 0
- 679 136 548 -13 371 -13 c 0
- 194 -13 65 135 65 344 c 0
- 65 554 196 703 373 703 c 0
- 550 703 679 555 679 346 c 0
-629 344 m 0
- 629 530 524 660 371 660 c 0
- 219 660 115 530 115 346 c 0
- 115 160 220 30 373 30 c 0
- 525 30 629 160 629 344 c 0
+508.21875 791.198242188 m 4
+ 690.90625 788.791992188 850.208007812 587.125 872.729492188 306.53125 c 4
+ 894.645507812 33.3642578125 724.833007812 -140.75 520.323242188 -186.760742188 c 4
+ 242.09375 -249.354492188 77.3017578125 -0.1357421875 143.71875 306.53125 c 4
+ 199.75 565.270507812 334.21875 793.479492188 508.21875 791.198242188 c 4
+474.5 542.448242188 m 4
+ 372.84375 525.510742188 342.770507812 432.823242188 323.541992188 325.166992188 c 4
+ 292.875 153.541992188 394.40625 34.75 528.239257812 54.8330078125 c 4
+ 626.635742188 69.59375 686.21875 242.1875 689.125 293.625 c 4
+ 695.291992188 402.895507812 615.573242188 565.958007812 474.5 542.448242188 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 138 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 94 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -30 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: P
 Encoding: 80 80 75
-Width: 530
+Width: 1003
 Flags: W
+HStem: 6.65332 157.024<296.335 706.583> 54.0029 152.397<808.906 900.699>
 LayerCount: 3
 Fore
 SplineSet
-480 500 m 0
- 480 369 378 300 244 300 c 2
- 148 300 l 1
- 148 0 l 1
- 100 0 l 1
- 100 690 l 1
- 260 690 l 2
- 393 690 480 621 480 500 c 0
-430 498 m 0
- 430 596 369 647 256 647 c 2
- 148 647 l 1
- 148 343 l 1
- 246 343 l 2
- 360 343 430 395 430 498 c 0
+680.540039062 163.677734375 m 4x80
+ 800.916992188 176.866210938 840.797851562 197.270507812 912.366210938 206.400390625 c 4
+ 961.171875 212.62890625 979.314453125 196.34375 994.38671875 169.291992188 c 4
+ 1028.70019531 107.663085938 890.876953125 69.7587890625 825.953125 54.0029296875 c 4x40
+ 640.443359375 8.9921875 574.296875 5.3369140625 459.905273438 6.6533203125 c 4
+ 247.26171875 9.1162109375 -15.18359375 108.850585938 8.5849609375 293.749023438 c 4
+ 26.8125 435.505859375 158.255859375 554.219726562 291.060546875 593.14453125 c 4
+ 335.607421875 606.203125 428.282226562 638.697265625 469.459960938 599.408203125 c 4
+ 495.004882812 575.03125 485.408203125 549.499023438 457.826171875 523.853515625 c 4
+ 380.391601562 451.853515625 201.653320312 373.134765625 174.788085938 270.537109375 c 4
+ 157.037109375 202.754882812 288.5234375 161.065429688 378.012695312 160.842773438 c 4
+ 484.543945312 160.578125 576.7421875 152.3046875 680.540039062 163.677734375 c 4x80
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -105 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -65 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: Q
 Encoding: 81 81 76
-Width: 747
+Width: 1000
 Flags: W
+HStem: 4.52539 157.437<294.536 705.855>
 LayerCount: 3
 Fore
 SplineSet
-679 346 m 0
- 679 156 575 17 420 -7 c 1
- 652 -97 l 1
- 644 -146 l 1
- 289 -4 l 2
- 155 50 65 151 65 344 c 0
- 65 554 196 703 373 703 c 0
- 550 703 679 555 679 346 c 0
-629 343 m 0
- 629 531 524 660 371 660 c 0
- 218 660 115 533 115 345 c 0
- 115 157 220 28 373 28 c 0
- 526 28 629 156 629 343 c 0
+320.646484375 161.961914062 m 4
+ 424.715820312 150.557617188 517.155273438 158.853515625 623.963867188 159.1171875 c 4
+ 713.686523438 159.342773438 845.515625 201.139648438 827.71875 269.098632812 c 4
+ 800.784179688 371.963867188 621.579101562 450.887695312 543.942382812 523.075195312 c 4
+ 516.288085938 548.7890625 506.666015625 574.387695312 532.278320312 598.830078125 c 4
+ 573.5625 638.219726562 666.479492188 605.641601562 711.143554688 592.548828125 c 4
+ 844.295898438 553.520507812 976.081054688 434.498046875 994.35546875 292.370117188 c 4
+ 1018.18652344 106.990234375 755.057617188 6.9951171875 541.856445312 4.525390625 c 4
+ 427.166992188 3.20703125 360.848632812 6.87109375 174.853515625 52 c 4
+ 109.760742188 67.7958984375 -28.4208984375 105.801757812 5.9814453125 167.58984375 c 4
+ 21.0927734375 194.711914062 39.28125 211.040039062 88.2158203125 204.793945312 c 4
+ 159.970703125 195.641601562 199.955078125 175.18359375 320.646484375 161.961914062 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 138 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: R
 Encoding: 82 82 77
-Width: 564
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-430 506 m 0
- 430 597 370 647 263 647 c 2
- 148 647 l 1
- 148 359 l 1
- 250 359 l 2
- 360 359 430 410 430 506 c 0
-304 322 m 1
- 304 323 536 4 536 4 c 1
- 486 -7 l 1
- 251 317 l 1
- 148 317 l 1
- 148 0 l 1
- 100 0 l 1
- 100 690 l 1
- 266 690 l 2
- 395 690 480 623 480 508 c 0
- 480 400 402 339 304 322 c 1
+124.536132812 677.798828125 m 6
+ 88.828125 729.415039062 122.692382812 791.448242188 180.70703125 795.5 c 4
+ 212.079101562 797.629882812 242.396484375 783.703125 261.211914062 758.500976562 c 4
+ 341.002929688 652.403320312 788.908203125 52.76171875 873.922851562 -61.0478515625 c 4
+ 889.202148438 -81.501953125 894.639648438 -107.671875 888.763671875 -132.51953125 c 4
+ 875.905273438 -188.145507812 819.169921875 -207.970703125 779.397460938 -184.520507812 c 4
+ 771.913085938 -180.147460938 765.380859375 -174.334960938 760.173828125 -167.407226562 c 4
+ 714.927734375 -107.30078125 124.536132812 677.798828125 124.536132812 677.798828125 c 6
 EndSplineSet
-Validated: 37
+Validated: 524321
 Kerns2: 148 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -5 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: S
 Encoding: 83 83 78
-Width: 512
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-454 178 m 0
- 454 61 357 -8 243 -8 c 0
- 163 -8 105 11 67 33 c 1
- 74 82 l 1
- 113 58 175 35 246 35 c 0
- 334 35 404 89 404 175 c 0
- 404 247 364 288 259 333 c 0
- 125 390 78 436 78 532 c 0
- 78 630 161 698 266 698 c 0
- 330 698 381 684 415 664 c 1
- 408 616 l 1
- 368 639 323 655 264 655 c 0
- 181 655 127 602 127 534 c 0
- 127 462 166 428 274 382 c 0
- 397 330 454 277 454 178 c 0
+877.360351562 676.431640625 m 6
+ 877.360351562 676.431640625 286.96875 -108.668945312 241.72265625 -168.775390625 c 4
+ 236.515625 -175.703125 229.983398438 -181.515625 222.499023438 -185.887695312 c 4
+ 182.7265625 -209.338867188 125.9921875 -189.512695312 113.1328125 -133.887695312 c 4
+ 107.256835938 -109.040039062 112.694335938 -82.8701171875 127.973632812 -62.416015625 c 4
+ 212.98828125 51.3935546875 660.893554688 651.036132812 740.684570312 757.133789062 c 4
+ 759.5 782.334960938 789.817382812 796.26171875 821.189453125 794.1328125 c 4
+ 879.205078125 790.080078125 913.068359375 728.046875 877.360351562 676.431640625 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 142 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -4 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: T
 Encoding: 84 84 79
-Width: 566
+Width: 1000
 Flags: W
+HStem: 120.377 145.046<120.893 464.534>
 LayerCount: 3
 Fore
 SplineSet
-536 647 m 1
- 311 647 l 1
- 311 0 l 1
- 263 0 l 1
- 263 647 l 1
- 37 647 l 1
- 37 690 l 1
- 530 690 l 1
- 536 647 l 1
+850.973632812 100.725585938 m 6
+ 850.973632812 100.725585938 286.34375 116.799804688 163.786132812 120.376953125 c 4
+ 142.977539062 120.967773438 124.133789062 132.8203125 114.59375 151.318359375 c 4
+ 102.944335938 173.978515625 97.001953125 204.276367188 107.232421875 229.291992188 c 4
+ 117.028320312 252.361328125 140.240234375 266.80859375 165.268554688 265.422851562 c 4
+ 256.284179688 260.76953125 705.516601562 237.788085938 829.982421875 231.262695312 c 4
+ 864.25390625 229.505859375 892.801757812 204.369140625 898.877929688 170.591796875 c 4
+ 905.197265625 134.622070312 886.560546875 101.607421875 850.973632812 100.725585938 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -123 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -70 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: U
 Encoding: 85 85 80
-Width: 674
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-589 260 m 2
- 589 99 494 -10 335 -10 c 0
- 177 -10 85 101 85 255 c 2
- 85 690 l 1
- 133 690 l 1
- 133 262 l 2
- 133 127 204 33 337 33 c 0
- 468 33 541 122 541 257 c 2
- 541 690 l 1
- 589 690 l 1
- 589 260 l 2
+230.612304688 640.418945312 m 4
+ 173.747070312 412.118164062 159.274414062 197.870117188 243.584960938 59.9384765625 c 4
+ 266.396484375 22.7041015625 304.221679688 -2.814453125 347.288085938 -10.046875 c 4
+ 390.346679688 -17.271484375 434.435546875 -5.4931640625 468.15234375 22.251953125 c 4
+ 640.952148438 165.458007812 741.928710938 386.080078125 852.016601562 625.3984375 c 4
+ 875.251953125 675.909179688 1017.33691406 656.26171875 997.954101562 595.732421875 c 4
+ 949.725585938 445.124023438 929.434570312 385.431640625 871.87890625 269.640625 c 4
+ 834.333007812 194.095703125 793.206054688 84.8154296875 686.33984375 -63.1357421875 c 4
+ 559.297851562 -239.03515625 301.278320312 -243.981445312 138.397460938 -65.76953125 c 4
+ -40.2998046875 129.732421875 -19.8662109375 343.715820312 65.1376953125 617.8984375 c 4
+ 95.791015625 716.775390625 246.693359375 705.0234375 230.612304688 640.418945312 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 85 -12 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -10 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -5 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -20 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: V
 Encoding: 86 86 81
-Width: 683
+Width: 1000
 Flags: W
+VStem: 5.51953 139.675<475.451 556.294>
 LayerCount: 3
 Fore
 SplineSet
-636 690 m 1
- 362 -4 l 1
- 318 -4 l 1
- 47 686 l 1
- 94 697 l 1
- 341 54 l 1
- 586 690 l 1
- 636 690 l 1
+145.194335938 513.788085938 m 4
+ 229.666015625 297.821289062 271.345703125 155.057617188 345.516601562 16.4912109375 c 4
+ 349.055664062 9.947265625 355.340820312 5.3740234375 362.64453125 3.8955078125 c 4
+ 369.952148438 2.521484375 377.493164062 4.4873046875 383.202148438 9.255859375 c 4
+ 504.190429688 128.306640625 819.64453125 553.52734375 867.637695312 604.243164062 c 4
+ 922.216796875 661.991210938 1031.41308594 605.49609375 978.686523438 517.098632812 c 4
+ 895.017578125 376.8046875 562.62890625 -27.5615234375 438.37109375 -142.486328125 c 4
+ 391.3359375 -186.020507812 379.545898438 -201.090820312 336.51953125 -195.291992188 c 4
+ 276.11328125 -187.249023438 92.4130859375 205.041992188 5.51953125 538.567382812 c 4
+ -3.6845703125 573.837890625 27.90234375 618.37890625 74.3505859375 601.122070312 c 4
+ 100.284179688 591.376953125 125.329101562 564.609375 145.194335938 513.788085938 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: W
 Encoding: 87 87 82
-Width: 1033
+Width: 1000
 Flags: W
+VStem: 5.25977 132.367<-154.393 27.8155> 781.737 184.728<-133.45 23.2618>
 LayerCount: 3
 Fore
 SplineSet
-979 690 m 1
- 770 -2 l 1
- 726 -2 l 1
- 515 624 l 1
- 307 -2 l 1
- 264 -2 l 1
- 55 686 l 1
- 103 697 l 1
- 289 71 l 1
- 491 690 l 1
- 542 690 l 1
- 748 71 l 1
- 931 690 l 1
- 979 690 l 1
+781.737304688 -100.59375 m 0
+ 822.810546875 124.373046875 844.0234375 335.568359375 790.73046875 497.366210938 c 0
+ 765.943359375 571.302734375 705.814453125 627.947265625 630.53125 648.294921875 c 0
+ 555.240234375 668.653320312 474.76953125 650.01171875 416.107421875 598.627929688 c 0
+ 203.499023438 413.903320312 158.194335938 87.6748046875 137.626953125 -152.07421875 c 0
+ 132.296875 -214.1875 7.09375 -199.587890625 5.259765625 -131.370117188 c 0
+ -2.5693359375 158.497070312 163.8671875 601.654296875 313.706054688 700.36328125 c 0
+ 400.736328125 757.701171875 485.625 796.126953125 596.56640625 794.859375 c 0
+ 717.8984375 793.475585938 837.081054688 781.212890625 906.65234375 655.463867188 c 0
+ 1052.58398438 391.732421875 965.391601562 209.723632812 966.46484375 -100.643554688 c 0
+ 966.868164062 -215.0859375 764.491210938 -195.125 781.737304688 -100.59375 c 0
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -77 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -50 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -59 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -68 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: X
 Encoding: 88 88 83
-Width: 635
+Width: 1000
 Flags: W
 LayerCount: 3
 Fore
 SplineSet
-290 361 m 1
- 67 684 l 1
- 112 694 l 1
- 317 395 l 1
- 515 690 l 1
- 567 690 l 1
- 343 360 l 1
- 587 5 l 1
- 542 -5 l 1
- 317 327 l 1
- 97 0 l 1
- 45 0 l 1
- 290 361 l 1
+183.98828125 630.674804688 m 4
+ 126.518554688 656.14453125 97 686.349609375 87.2412109375 716.69921875 c 4
+ 69.650390625 771.060546875 122.541992188 805.120117188 162.783203125 792.7109375 c 4
+ 542.060546875 675.518554688 943.505859375 429.686523438 949.650390625 359.747070312 c 4
+ 954.108398438 309.927734375 936.15625 297.1328125 883.626953125 245.241210938 c 4
+ 744.952148438 108.14453125 337.963867188 -139.168945312 153.264648438 -195.14453125 c 4
+ 101.819335938 -210.735351562 -6.2529296875 -114.879882812 55.794921875 -82.72265625 c 4
+ 127.241210938 -45.638671875 603.8671875 201.98828125 742.783203125 322.735351562 c 4
+ 748.4453125 328.819335938 751.216796875 337.096679688 750.252929688 345.373046875 c 4
+ 749.409179688 353.663085938 744.831054688 361.1328125 737.963867188 365.819335938 c 4
+ 599.530273438 458.168945312 427.481445312 522.686523438 183.98828125 630.674804688 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 119 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -10 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -54 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 34 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: Y
 Encoding: 89 89 84
-Width: 621
+Width: 1000
 Flags: W
+HStem: 94.4629 113.245<126.503 174.321>
+VStem: 761.848 131.763<348.9 559.081>
 LayerCount: 3
 Fore
 SplineSet
-580 690 m 1
- 334 297 l 1
- 334 0 l 1
- 286 0 l 1
- 286 296 l 1
- 41 687 l 1
- 89 697 l 1
- 311 336 l 1
- 528 690 l 1
- 580 690 l 1
+815.501953125 112.30859375 m 6
+ 815.501953125 112.30859375 295.762695312 97.39453125 193.549804688 94.462890625 c 4
+ 174.305664062 93.91015625 155.1328125 96.9765625 137.026367188 103.48828125 c 4
+ 116.959960938 110.711914062 108.258789062 121.127929688 106.1953125 143.549804688 c 4
+ 103.935546875 168.10546875 133.620117188 206.23828125 174.321289062 207.708007812 c 6
+ 174.321289062 207.708007812 670.913085938 230.991210938 730.811523438 233.796875 c 4
+ 734.186523438 233.954101562 736.913085938 236.5859375 737.189453125 239.953125 c 4
+ 740.327148438 277.801757812 757.650390625 487.260742188 761.84765625 537.9921875 c 4
+ 762.54296875 546.456054688 766.827148438 554.217773438 773.615234375 559.322265625 c 4
+ 788.947265625 570.766601562 808.5 576.623046875 828.84375 575.279296875 c 4
+ 866.581054688 572.797851562 880.040039062 556.674804688 889.974609375 537.328125 c 4
+ 893.21484375 531.147460938 894.487304688 524.122070312 893.610351562 517.198242188 c 4
+ 886.212890625 458.619140625 848.016601562 158.455078125 848.016601562 158.455078125 c 6
+ 845.724609375 139.622070312 847.329101562 130.786132812 840.279296875 122.693359375 c 4
+ 832.34375 113.596679688 825.413085938 112.28515625 815.501953125 112.30859375 c 6
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 144 -105 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 138 -123 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -100 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 25 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 23 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -73 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 18 -105 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -91 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 8 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -114 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -32 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -118 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -105 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -85 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -45 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -96 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -128 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -82 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -109 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -64 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: Z
 Encoding: 90 90 85
-Width: 610
+Width: 1000
 Flags: W
+HStem: -195.127 271.204<529.237 963.677> 483.741 172.774<98.319 395.579>
 LayerCount: 3
 Fore
 SplineSet
-549 0 m 1
- 65 0 l 1
- 65 32 l 1
- 485 649 l 1
- 93 649 l 1
- 87 690 l 1
- 544 690 l 1
- 544 658 l 1
- 124 41 l 1
- 543 41 l 1
- 549 0 l 1
+62.16015625 656.515625 m 4
+ 116.377929688 658.852539062 591.814453125 671.374023438 672.494140625 647.943359375 c 4
+ 750.208007812 625.366210938 799.90625 574.91796875 779.509765625 519.4609375 c 4
+ 761.05078125 468.987304688 554.765625 276.811523438 408.635742188 148.560546875 c 4
+ 401.666015625 142.44140625 398.1796875 133.328125 399.083984375 124.098632812 c 4
+ 399.987304688 114.868164062 405.279296875 106.645507812 413.412109375 102.049804688 c 4
+ 501.967773438 79.4716796875 703.993164062 75.328125 935.580078125 76.0771484375 c 4
+ 949.521484375 76.115234375 961.78515625 66.3173828125 964.625 52.58203125 c 4
+ 981.665039062 -27.181640625 989.41015625 -102.336914062 983.6015625 -170.677734375 c 4
+ 982.181640625 -184.826171875 970.176757812 -195.48828125 955.9765625 -195.126953125 c 4
+ 565.22265625 -185.497070312 259.795898438 -162.841796875 147.747070312 -75.8740234375 c 4
+ 77.650390625 -21.373046875 77.779296875 50.58203125 124.251953125 118.999023438 c 4
+ 202.73828125 234.5859375 351.0625 340.387695312 450.848632812 453.586914062 c 4
+ 455.3671875 458.995117188 456.399414062 466.534179688 453.430664062 472.962890625 c 4
+ 450.590820312 479.405273438 444.264648438 483.599609375 437.166015625 483.741210938 c 4
+ 285.2265625 487.033203125 133.8046875 494.908203125 70.6796875 506.616210938 c 4
+ -9.2275390625 521.435546875 -4.966796875 653.624023438 62.16015625 656.515625 c 4
 EndSplineSet
-Validated: 1
+Validated: 524321
 Kerns2: 148 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 137 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 108 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 106 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 24 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 22 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 21 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -13 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 -18 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 -22 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 62 -27 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -36 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -9 "Whitney-Light-'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
